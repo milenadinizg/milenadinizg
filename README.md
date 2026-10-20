@@ -1,20 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4C1D95,7C3AED,A78BFA&height=200&section=header&text=Milena%20Diniz&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20%7C%20Front-end%20%26%20UX%2FUI&descSize=18&descAlignY=58" alt="Milena Diniz" />
+<img src="header.svg" alt="Milena Diniz" width="100%" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=Ol%C3%A1%2C+eu+sou+a+Milena+%F0%9F%92%9C;Hi%2C+I'm+Milena+%F0%9F%92%9C;Do+Figma+at%C3%A9+a+API;From+Figma+to+the+API" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=Ol%C3%A1%2C+eu+sou+a+Milena+%F0%9F%92%9C;Hi%2C+I'm+Milena+%F0%9F%92%9C;Full+stack+com+foco+em+front-end;Full+stack+with+a+front-end+focus" alt="Olá, eu sou a Milena" />
 
 </div>
 
 ---
 
-## 🇧🇷 Sobre mim
+## ✨ Sobre mim
 
 Estudante de Ciência da Computação na Universidade Federal do Ceará (Campus Quixadá), com foco em desenvolvimento full stack e ênfase em front-end e UX/UI. Desenvolvo aplicações completas: da prototipagem no Figma à interface em React e Next.js, até a API em Node.js, NestJS, Spring Boot ou FastAPI. Trabalho com bancos relacionais e não relacionais.
 
-## 🇺🇸 About me
+## 🌐 About me
 
 Computer Science student at the Federal University of Ceará (UFC), Quixadá campus, focused on full stack development with an emphasis on front-end and UX/UI. I build complete applications, from Figma prototypes to React and Next.js interfaces and APIs in Node.js, NestJS, Spring Boot or FastAPI. I work with relational and non-relational databases.
 
@@ -24,20 +22,41 @@ Computer Science student at the Federal University of Ceará (UFC), Quixadá cam
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,bootstrap,nodejs,express,nestjs,java,spring,py,fastapi,cpp,mongodb,mysql,postgres,docker,vercel,figma,git,github&perline=9)](https://skillicons.dev)
+<b>Front-end</b>
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,bootstrap" alt="Front-end" />
+<br/>
+<img src="https://img.shields.io/badge/React_Native-7C3AED?style=flat-square&logo=react&logoColor=white" alt="React Native" />
 
-![React Native](https://img.shields.io/badge/React_Native-7C3AED?style=flat-square&logo=react&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-6D28D9?style=flat-square&logo=swagger&logoColor=white)
+<br/>
+
+<b>Back-end & APIs</b>
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,py,fastapi,cpp" alt="Back-end" />
+<br/>
+<img src="https://img.shields.io/badge/Swagger-6D28D9?style=flat-square&logo=swagger&logoColor=white" alt="Swagger" />
+
+<br/>
+
+<b>Banco de dados | Databases</b>
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" alt="Bancos de dados" />
+
+<br/>
+
+<b>Design & Ferramentas | Design & Tools</b>
+<br/>
+<img src="https://skillicons.dev/icons?i=figma,git,github,docker,vercel" alt="Ferramentas" />
 
 </div>
 
 ---
 
-## 💬 Status
+## 💬 Discord
 
 <div align="center">
 
-[![Discord Status](https://lanyard.cnrad.dev/api/631290732271108116?bg=1E1033&borderRadius=16px&showDisplayName=true&idleMessage=Codando...)](https://discord.com/users/631290732271108116)
+[![Discord Status](https://lanyard.cnrad.dev/api/631290732271108116?bg=1E1033&borderRadius=16px&showDisplayName=true&idleMessage=Me%20chama%20no%20Discord)](https://discord.com/users/631290732271108116)
 
 </div>
 
@@ -58,7 +77,12 @@ Computer Science student at the Federal University of Ceará (UFC), Quixadá cam
 
 ---
 
-<!-- ## 🚀 Projetos | Projects
+<!--
+SEÇÃO DE PROJETOS (oculta por enquanto)
+Para mostrar de novo, apague a linha de abertura e a de fechamento deste comentário.
+Para adicionar mais projetos, copie um bloco e troque o valor de repo=NOME_DO_REPO.
+
+## 🚀 Projetos | Projects
 
 <div align="center">
 
@@ -69,11 +93,10 @@ Computer Science student at the Federal University of Ceará (UFC), Quixadá cam
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=milenadinizg&repo=Matrizes-Esparsas&theme=transparent&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&hide_border=true" alt="Matrizes-Esparsas" />
 </a>
 
-<!-- Quando os outros repositórios estiverem públicos, copie um bloco acima e troque o valor de repo=NOME_DO_REPO -->
-
-</div> 
+</div>
 
 ---
+-->
 
 ## 📫 Contato | Contact
 
@@ -88,6 +111,8 @@ Computer Science student at the Federal University of Ceará (UFC), Quixadá cam
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-5B21B6?style=for-the-badge&logo=googlechrome&logoColor=white)](URL_DO_PORTFOLIO)
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4C1D95,7C3AED,A78BFA&height=100&section=footer" alt="" />
+<br/>
+
+<img src="footer.svg" alt="" width="100%" />
 
 </div>
