@@ -2,7 +2,7 @@
 
 <img src="header.svg" alt="Milena Diniz" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=Ol%C3%A1%2C+eu+sou+a+Milena+%F0%9F%92%9C;Hi%2C+I'm+Milena+%F0%9F%92%9C;Full+stack+com+foco+em+front-end;Full+stack+with+a+front-end+focus" alt="Olá, eu sou a Milena" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=Ol%C3%A1%2C+eu+sou+a+Milena+%F0%9F%92%9C;Hi%2C+I'm+Milena+%F0%9F%92%9C;Desenvolvedor+Full+stack;Full+stack+Developer" alt="Olá, eu sou a Milena" />
 
 </div>
 
