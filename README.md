@@ -56,7 +56,7 @@ Computer Science student at the Federal University of Ceará (UFC), Quixadá cam
 
 <div align="center">
 
-[![Discord Status](https://lanyard.cnrad.dev/api/631290732271108116?bg=1E1033&borderRadius=16px&showDisplayName=true&idleMessage=Me%20chama%20no%20Discord)](https://discord.com/users/631290732271108116)
+[![Discord Status](https://lanyard.cnrad.dev/api/631290732271108116?bg=1E1033&borderRadius=16px&showDisplayName=true&idleMessage=Coding...)](https://discord.com/users/631290732271108116)
 
 </div>
 
